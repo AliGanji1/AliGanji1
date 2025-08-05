@@ -10,7 +10,7 @@
 
 ### 🧠 About Me:
 
-🎯 I’m a self-taught developer with nearly 2 years of experience, passionate about building responsive mobile apps and scalable backends.  
+🎯 I’m a self-taught developer with nearly 3 years of experience, passionate about building responsive mobile apps and scalable backends.  
 🚀 Currently focused on creating modular Flutter apps using GetX & clean architecture principles.  
 🔧 Backend enthusiast – love working with Flask, SQLAlchemy, Redis & Docker.  
 🎨 Sometimes I design stuff in Adobe XD & Premiere Pro too.  
